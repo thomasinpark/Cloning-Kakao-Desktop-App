@@ -1,3 +1,1 @@
-    #kakao-clone
-
-    Kakao-clone testing
+# Kakao-clone
